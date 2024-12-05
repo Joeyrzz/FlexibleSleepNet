@@ -28,6 +28,8 @@ Pytorch-cuda == 12.1
 
 Ze Ren
 
-School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University
+School of Electronic Information and Electrical Engineering
+
+Shanghai Jiao Tong University
 
 JoeyR2@sjtu.edu.cn
