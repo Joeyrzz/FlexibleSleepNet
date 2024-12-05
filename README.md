@@ -2,7 +2,7 @@
 
 ### Model Overview
 
-
+![Model Figure](Model Overview.png)
 
 ### Pre-trained weights
 
