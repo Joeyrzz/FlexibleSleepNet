@@ -12,9 +12,9 @@ The pre-trained weights are stored on Google Drive. You can download them from t
 
 ## Dataset
 
-![SleepEDF](https://www.physionet.org/content/sleep-edfx/1.0.0/)
+[SleepEDF](https://www.physionet.org/content/sleep-edfx/1.0.0/)
 
-![SHHS](https://sleepdata.org/datasets/shhs)
+[SHHS](https://sleepdata.org/datasets/shhs)
 
 ## Requirement
 
