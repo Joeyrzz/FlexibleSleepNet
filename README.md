@@ -2,7 +2,7 @@
 
 ### Model Overview
 
-![image-20241205185142474](/Users/joeyren/Library/Application Support/typora-user-images/image-20241205185142474.png)
+
 
 ### Pre-trained weights
 
