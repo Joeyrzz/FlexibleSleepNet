@@ -2,7 +2,7 @@
 
 ### Model Overview
 
-[Model Overview.png](https://github.com/Joeyrzz/FlexibleSleepNet/blob/main/Model%20Overview.png)
+![Model Overview.png](https://github.com/Joeyrzz/FlexibleSleepNet/blob/main/Model%20Overview.png)
 
 ### Pre-trained weights
 
