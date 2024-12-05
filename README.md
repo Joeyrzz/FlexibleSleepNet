@@ -18,3 +18,10 @@ PyTorch >= 2.1.2
 
 Pytorch-cuda == 12.1
 
+### Contact
+
+Ze Ren
+
+School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University
+
+JoeyR2@sjtu.edu.cn
